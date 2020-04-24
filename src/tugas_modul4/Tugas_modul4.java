@@ -92,7 +92,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break;
          default:
-           System.out.println("Silahkan Masukkan Pilihan Variasi Rasa");
+           System.out.println("Silahkan Masukkan Variasi Rasa");
          break;
       } 
     }
